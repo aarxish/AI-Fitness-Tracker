@@ -12,10 +12,9 @@ test_project.py
 requirements.txt
 README.md
 ## Features
-1. Health Analysis
+## Health Analysis
 
 This feature asks the user for:
-
 age
 height
 weight
@@ -27,10 +26,10 @@ BMI category
 estimated maintenance calories
 suggested calorie intake
 fitness recommendations
-2. Weekly Diet Plan Generator
+
+## Weekly Diet Plan Generator
 
 This feature uses the previously stored user information and asks the user whether their goal is to:
-
 cut
 bulk
 maintain
@@ -43,7 +42,8 @@ dinner
 snacks
 calorie estimates
 high-protein meal suggestions
-3. Calorie and Macro Checker
+
+## Calorie and Macro Checker
 
 This feature allows users to enter meals or food items and receive estimated:
 
