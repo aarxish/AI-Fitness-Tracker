@@ -11,7 +11,7 @@ project.py
 test_project.py
 requirements.txt
 README.md
-## Features
+
 ## Health Analysis
 
 This feature asks the user for:
@@ -71,19 +71,19 @@ This makes the application significantly more flexible and user-friendly.
 Another advantage of using AI is adaptability. Instead of manually programming hundreds of food rules, calorie databases, and formatting conditions, the AI dynamically interprets requests and generates organized responses naturally.
 
 ## Libraries Used
-Groq
+### Groq
 
 Used for AI inference and response generation.
 
-Rich
+### Rich
 
 Used to create a cleaner and more interactive terminal interface.
 
-python-dotenv
+### python-dotenv
 
 Used to securely load environment variables from a .env file.
 
-pytest
+### pytest
 
 Used for testing the project.
 
